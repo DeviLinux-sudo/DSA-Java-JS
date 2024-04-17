@@ -1,1 +1,1 @@
-# DSA Solutions in Java and Js from Different Coding Platforms
+# DSA Solutions in Java and JavaScript from different Coding Platforms
